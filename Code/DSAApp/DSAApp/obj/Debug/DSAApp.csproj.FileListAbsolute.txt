@@ -1,0 +1,15 @@
+D:\net\C\DSAApp\DSAApp\bin\Debug\DSAApp.exe.config
+D:\net\C\DSAApp\DSAApp\bin\Debug\DSAApp.exe
+D:\net\C\DSAApp\DSAApp\bin\Debug\DSAApp.pdb
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp.csproj.AssemblyReference.cache
+D:\net\C\DSAApp\DSAApp\obj\Debug\MainWindow.g.cs
+D:\net\C\DSAApp\DSAApp\obj\Debug\App.g.cs
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp_MarkupCompile.cache
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp_MarkupCompile.lref
+D:\net\C\DSAApp\DSAApp\obj\Debug\MainWindow.baml
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp.g.resources
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp.Properties.Resources.resources
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp.csproj.GenerateResource.cache
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp.csproj.CoreCompileInputs.cache
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp.exe
+D:\net\C\DSAApp\DSAApp\obj\Debug\DSAApp.pdb
